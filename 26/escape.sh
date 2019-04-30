@@ -1,0 +1,6 @@
+hecho "Using escape sequences"
+echo "Hey World, \nWhats up ?"
+echo "Hey World, \rWhats up ?"
+echo "Hey World, \tWhats up ?"
+echo "Hey World, \b\b\b\b\b\b\bWhats up ?"
+echo "\033[1mHey World, \nWhats up?\033[0m"
